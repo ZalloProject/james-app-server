@@ -1,0 +1,12 @@
+[submodule "components/Form-Service"]
+	path = components/Form-Service
+	url = https://github.com/ZalloProject/Form-Service.git
+[submodule "components/GenDesc-Service"]
+	path = components/GenDesc-Service
+	url = https://github.com/ZalloProject/GenDesc-Service.git
+[submodule "components/Picture-Service"]
+	path = components/Picture-Service
+	url = https://github.com/ZalloProject/Picture-Service.git
+[submodule "components/SimilarHomes"]
+	path = components/SimilarHomes
+	url = https://github.com/ZalloProject/SimilarHomes.git
